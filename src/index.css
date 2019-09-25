@@ -23,7 +23,7 @@
 .collection-item.avatar .title {
     font-size: 20px;
     font-weight: 500;
-    color: #ee6e73;
+    color: #58181a;
     display: block;
     margin-bottom: 20px;
     
@@ -34,4 +34,10 @@
 }
 .item-desc{
     align-self:center;
+}
+.nav-wrapper{
+    background-color: #58181a;
+}
+.material-icons{
+    background-color: #58181a;
 }
